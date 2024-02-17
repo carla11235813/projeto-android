@@ -17,7 +17,7 @@ Este repositório contém uma página estática feita em HTML e CSS que conta a 
 
 :small_orange_diamond: **estilo**: Contém folha de estilo CSS para estilizar a página.
 
-:small_orange_diamond: **images**: Pasta contendo imagens utilizadas na página.
+:small_orange_diamond: **imagens**: Pasta contendo imagens utilizadas na página.
 
 :small_orange_diamond: **fontes**: Pasta contendo fonte utilizadas na página.
 
